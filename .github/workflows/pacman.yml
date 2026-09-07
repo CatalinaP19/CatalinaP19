@@ -21,6 +21,42 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: "pacman"
 
+      # Reemplaza la paleta verde de GitHub por la paleta calida personalizada.
+      # Mapeo por intensidad (NONE -> Q4) sobre el tema github-dark:
+      #   #161b22 (fondo/none) -> #211a15
+      #   #0e4429 (q1)         -> #5c3420
+      #   #006d32 (q2)         -> #863b24
+      #   #26a641 (q3)         -> #b24e30
+      #   #39d353 (q4)         -> #dcafa2
+      # Y sobre el tema claro github:
+      #   #ebedf0 (none) -> #f3 e8 -> #f3e3da
+      #   #9be9a8 (q1)   -> #ecd3cb
+      #   #40c463 (q2)   -> #d79b82
+      #   #30a14e (q3)   -> #b24e30
+      #   #216e39 (q4)   -> #863b24
+      - name: Recolor SVGs with custom palette
+        run: |
+          shopt -s nullglob
+          for f in dist/*.svg; do
+            echo "Recoloring $f"
+            # Tema oscuro (github-dark)
+            sed -i \
+              -e 's/#161b22/#211a15/gI' \
+              -e 's/#0e4429/#5c3420/gI' \
+              -e 's/#006d32/#863b24/gI' \
+              -e 's/#26a641/#b24e30/gI' \
+              -e 's/#39d353/#dcafa2/gI' \
+              "$f"
+            # Tema claro (github)
+            sed -i \
+              -e 's/#ebedf0/#f3e3da/gI' \
+              -e 's/#9be9a8/#ecd3cb/gI' \
+              -e 's/#40c463/#d79b82/gI' \
+              -e 's/#30a14e/#b24e30/gI' \
+              -e 's/#216e39/#863b24/gI' \
+              "$f"
+          done
+
       - name: Push graph to pacman-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
