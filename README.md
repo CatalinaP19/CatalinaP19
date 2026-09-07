@@ -13,7 +13,9 @@
 
 <!-- ======================= GITHUB STATS ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=44&color=0:322921,100:863B24&text=Activity&fontColor=FAF6ED&fontSize=20&fontAlign=50&fontAlignY=52&width=420" alt="Activity" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=99999&color=B24E30&center=true&vCenter=true&width=300&height=40&lines=Activity" alt="Activity" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:322921,50:B24E30,100:322921&section=header" width="55%" alt="divider" />
 </div>
 
 <div align="center">
@@ -24,7 +26,9 @@
 
 <!-- ======================= CONTRIBUTION GRAPH (PAC-MAN) ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=44&color=0:322921,100:863B24&text=Contribution%20Graph&fontColor=FAF6ED&fontSize=20&fontAlign=50&fontAlignY=52&width=420" alt="Contribution Graph" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=99999&color=B24E30&center=true&vCenter=true&width=340&height=40&lines=Contribution+Graph" alt="Contribution Graph" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:322921,50:B24E30,100:322921&section=header" width="55%" alt="divider" />
 </div>
 
 <div align="center">
@@ -39,7 +43,9 @@
 
 <!-- ======================= MUSIC ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=44&color=0:322921,100:863B24&text=Now%20Playing&fontColor=FAF6ED&fontSize=20&fontAlign=50&fontAlignY=52&width=420" alt="Now Playing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=99999&color=B24E30&center=true&vCenter=true&width=300&height=40&lines=Now+Playing" alt="Now Playing" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:322921,50:B24E30,100:322921&section=header" width="55%" alt="divider" />
 </div>
 
 <div data-importer="music" align="center">
@@ -52,7 +58,9 @@
 
 <!-- ======================= SOCIALS ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=44&color=0:322921,100:863B24&text=Let%27s%20Connect&fontColor=FAF6ED&fontSize=20&fontAlign=50&fontAlignY=52&width=420" alt="Let's Connect" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=99999&color=B24E30&center=true&vCenter=true&width=300&height=40&lines=Let%27s+Connect" alt="Let's Connect" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:322921,50:B24E30,100:322921&section=header" width="55%" alt="divider" />
 </div>
 
 <div data-importer="socials" align="center">
