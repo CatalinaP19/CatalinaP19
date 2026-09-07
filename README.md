@@ -9,35 +9,37 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:322921,100:B24E30&section=header" width="70%" alt="divider" />
-</div>
-
 ###
 
 <!-- ======================= GITHUB STATS ======================= -->
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=CatalinaP19&hide_border=true&background=0D0B0A&border=322921&stroke=635242&ring=B24E30&fire=B24E30&currStreakNum=FAF6ED&currStreakLabel=B24E30&sideNums=FAF6ED&sideLabels=918F89&dates=635242&dayLabels=918F89&titleColor=B24E30" alt="GitHub streak stats" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=44&color=0:322921,100:863B24&text=Activity&fontColor=FAF6ED&fontSize=20&fontAlign=50&fontAlignY=52&width=420" alt="Activity" />
+</div>
+
+<div align="center">
+  <img height="175" src="https://streak-stats.demolab.com/?user=CatalinaP19&hide_border=true&background=00000000&ring=B24E30&fire=B24E30&currStreakNum=DCAFA2&currStreakLabel=B24E30&sideNums=DCAFA2&sideLabels=918F89&dates=635242&dayLabels=918F89&stroke=635242&titleColor=B24E30" alt="GitHub streak stats" />
 </div>
 
 ###
 
 <!-- ======================= CONTRIBUTION GRAPH (PAC-MAN) ======================= -->
 <div align="center">
-  <h3>Contribution Graph</h3>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=44&color=0:322921,100:863B24&text=Contribution%20Graph&fontColor=FAF6ED&fontSize=20&fontAlign=50&fontAlignY=52&width=420" alt="Contribution Graph" />
 </div>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/pacman-output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ###
 
 <!-- ======================= MUSIC ======================= -->
 <div align="center">
-  <h3>Now Playing</h3>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=44&color=0:322921,100:863B24&text=Now%20Playing&fontColor=FAF6ED&fontSize=20&fontAlign=50&fontAlignY=52&width=420" alt="Now Playing" />
 </div>
 
 <div data-importer="music" align="center">
@@ -50,22 +52,24 @@
 
 <!-- ======================= SOCIALS ======================= -->
 <div align="center">
-  <h3>Social Media</h3>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=44&color=0:322921,100:863B24&text=Let%27s%20Connect&fontColor=FAF6ED&fontSize=20&fontAlign=50&fontAlignY=52&width=420" alt="Let's Connect" />
 </div>
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/catalina-perez-9b37601b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-B24E30?style=for-the-badge&logo=linkedin&logoColor=FAF6ED" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-863B24?style=flat-square&logo=linkedin&logoColor=FAF6ED&labelColor=322921" alt="LinkedIn" height="34" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=catalinalosadap@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-B24E30?style=for-the-badge&logo=gmail&logoColor=FAF6ED" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-863B24?style=flat-square&logo=gmail&logoColor=FAF6ED&labelColor=322921" alt="Gmail" height="34" />
   </a>
   <a href="https://www.instagram.com/p_cat0.0/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-B24E30?style=for-the-badge&logo=instagram&logoColor=FAF6ED" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-863B24?style=flat-square&logo=instagram&logoColor=FAF6ED&labelColor=322921" alt="Instagram" height="34" />
   </a>
   <a href="https://open.spotify.com/user/cjxiuieo685m85cduib4ut1y3" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-B24E30?style=for-the-badge&logo=spotify&logoColor=FAF6ED" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-863B24?style=flat-square&logo=spotify&logoColor=FAF6ED&labelColor=322921" alt="Spotify" height="34" />
   </a>
 </div>
 
-###
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:B24E30,50:863B24,100:322921&section=footer&reversal=true" alt="footer" />
+</div>
