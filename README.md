@@ -13,9 +13,7 @@
 
 <!-- ======================= GITHUB STATS ======================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=99999&color=B24E30&center=true&vCenter=true&width=300&height=40&lines=Activity" alt="Activity" />
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:322921,50:B24E30,100:322921&section=header" width="55%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/main/assets/title-activity.svg" alt="Activity" />
 </div>
 
 <div align="center">
@@ -26,9 +24,7 @@
 
 <!-- ======================= CONTRIBUTION GRAPH (PAC-MAN) ======================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=99999&color=B24E30&center=true&vCenter=true&width=340&height=40&lines=Contribution+Graph" alt="Contribution Graph" />
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:322921,50:B24E30,100:322921&section=header" width="55%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/main/assets/title-contributions.svg" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -43,14 +39,12 @@
 
 <!-- ======================= MUSIC ======================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=99999&color=B24E30&center=true&vCenter=true&width=300&height=40&lines=Now+Playing" alt="Now Playing" />
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:322921,50:B24E30,100:322921&section=header" width="55%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/main/assets/title-nowplaying.svg" alt="Now Playing" />
 </div>
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/cjxiuieo685m85cduib4ut1y3" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cjxiuieo685m85cduib4ut1y3&count=5&unique=false" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=cjxiuieo685m85cduib4ut1y3&theme=transparent&count=6&width=580&radius=18&duration=1&username=off&footer=wave&text_color=faf6ed&artist_color=918f89&meta_color=635242&accent_color=b24e30&logo_color=b24e30" alt="Spotify recently played" />
   </a>
 </div>
 
@@ -58,23 +52,24 @@
 
 <!-- ======================= SOCIALS ======================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&pause=99999&color=B24E30&center=true&vCenter=true&width=300&height=40&lines=Let%27s+Connect" alt="Let's Connect" />
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:322921,50:B24E30,100:322921&section=header" width="55%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/main/assets/title-connect.svg" alt="Let's Connect" />
 </div>
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/catalina-perez-9b37601b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-863B24?style=flat-square&logo=linkedin&logoColor=FAF6ED&labelColor=322921" alt="LinkedIn" height="34" />
+    <img src="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/main/assets/social-linkedin.svg" width="46" height="46" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=catalinalosadap@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-863B24?style=flat-square&logo=gmail&logoColor=FAF6ED&labelColor=322921" alt="Gmail" height="34" />
+    <img src="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/main/assets/social-gmail.svg" width="46" height="46" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/p_cat0.0/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-863B24?style=flat-square&logo=instagram&logoColor=FAF6ED&labelColor=322921" alt="Instagram" height="34" />
+    <img src="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/main/assets/social-instagram.svg" width="46" height="46" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://open.spotify.com/user/cjxiuieo685m85cduib4ut1y3" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-863B24?style=flat-square&logo=spotify&logoColor=FAF6ED&labelColor=322921" alt="Spotify" height="34" />
+    <img src="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/main/assets/social-spotify.svg" width="46" height="46" alt="Spotify" />
   </a>
 </div>
 
