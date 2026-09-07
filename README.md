@@ -7,8 +7,7 @@
 
 <!-- ======================= GITHUB STATS ======================= -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CatalinaP19&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=A5B4FC&icon_color=A5B4FC&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=CatalinaP19&hide_border=true&theme=tokyonight&ring=A5B4FC&fire=A5B4FC&currStreakLabel=A5B4FC&background=0D1117" alt="GitHub streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=CatalinaP19&hide_border=true&theme=tokyonight&ring=A5B4FC&fire=A5B4FC&currStreakLabel=A5B4FC&background=0D1117" alt="GitHub streak stats" />
 </div>
 
 ###
@@ -44,7 +43,7 @@
   <a href="https://www.linkedin.com/in/catalina-perez-9b37601b6/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="32" alt="linkedin logo" />
   </a>
-  <a href="mailto:catalinalosadap@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=catalinalosadap@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="71" height="32" alt="gmail logo" />
   </a>
   <a href="https://www.instagram.com/p_cat0.0/" target="_blank">
