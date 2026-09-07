@@ -1,32 +1,38 @@
-name: Generate Pacman contribution graph
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # se ejecuta una vez al día
-  workflow_dispatch: {}    # te permite correrlo manualmente desde la pestaña "Actions"
-  push:
-    branches:
-      - main               # cambia esto si tu rama principal se llama distinto
+###
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate pacman contribution graph
-        uses: Platane/snk@v3
-        id: pacman
-        with:
-          github_user_name: CatalinaP19
-          outputs: |
-            pacman-contribution-graph.svg
-            pacman-contribution-graph-dark.svg?palette=github-dark
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CatalinaP19/CatalinaP19/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
-      - name: Push graph to pacman-output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: pacman-output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/cjxiuieo685m85cduib4ut1y3" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cjxiuieo685m85cduib4ut1y3&count=5&unique=false" alt="Spotify recently played" />
+  </a>
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/catalina-perez-9b37601b6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:catalinalosadap@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="71" height="32" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/p_cat0.0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="71" height="32" alt="instagram logo"  />
+  </a>
+  <a href="https://open.spotify.com/user/cjxiuieo685m85cduib4ut1y3" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="71" height="32" alt="spotify logo"  />
+  </a>
+</div>
+
+###
